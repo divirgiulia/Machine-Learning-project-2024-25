@@ -50,6 +50,7 @@ bun 6.
 White blood count (wblc) 9 (thousands)
 Urine output (urine) 2502
 ```
+
 ## 3 Requests
 
 The dataset is provided as is. It is part of the project to develop a fully struc-
@@ -111,26 +112,16 @@ project. Notice that it may slightly vary in this year’s evaluation, but you c
 use it as a rough reference.
 Points for each task: Clustering, Classification, Regression.
 
-```
-0:Completely wrong, or one key concept is not taken into account;
-```
-```
-1:Ok, but poorly discussed, e.g., just a copy-paste of labs with no comments,
+- 0:Completely wrong, or one key concept is not taken into account;
+- 1:Ok, but poorly discussed, e.g., just a copy-paste of labs with no comments,
 or some conceptual errors;
-```
-```
-2:Well done, good comments and analysis, adapted code/analysis, and in-
+- 2:Well done, good comments and analysis, adapted code/analysis, and in-
 terpreted the results.
-```
-```
-Penalties:
-```
-```
-0:Does compile with no error;
-```
--0.5:Does not compile, but it is an easy fix to make it work;
 
-```
--1:Does not compile, and it would require more than 10 minutes of debugging
+
+Penalties:
+- 0:Does compile with no error;
+- 0.5:Does not compile, but it is an easy fix to make it work;
+- 1:Does not compile, and it would require more than 10 minutes of debugging
 to fix the errors.
-```
+

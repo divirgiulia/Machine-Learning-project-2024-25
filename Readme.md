@@ -1,9 +1,5 @@
 # Machine Learning 2025 Course - Homework
 
-## Francesco Trovò, Aleksandra Zec, Stefano Samele
-
-## {francesco1.trovo, aleksandra.zec, stefano.samele}@polimi.it
-
 ## May 2025
 
 ## 1 Background
